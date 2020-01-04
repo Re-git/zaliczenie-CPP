@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/remigiusz/work/zut/zaoczne/cpp/zaliczenie/prog2/EuropeanPrinter.cpp
+EuropeanPrinter.h
+/home/remigiusz/work/zut/zaoczne/cpp/zaliczenie/prog2/EuropeanPrinter.h
+
+/home/remigiusz/work/zut/zaoczne/cpp/zaliczenie/prog2/EuropeanPrinter.h
+iostream
+-
+

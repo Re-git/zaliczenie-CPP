@@ -1,0 +1,6 @@
+#ifndef __MATHEMATICALCALCULATIONS_H_INCLUDED__
+#define __MATHEMATICALCALCULATIONS_H_INCLUDED__
+
+float calculate(float f);
+
+#endif

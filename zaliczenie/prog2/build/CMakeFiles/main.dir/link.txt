@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/EuropeanPrinter.cpp.o CMakeFiles/main.dir/MathematicalCalculations.cpp.o  -o main 
